@@ -1,0 +1,10 @@
+id = "ron-lsp"
+name = "RON LSP"
+version = "0.1.0"
+schema_version = 1
+description = "RON language server (ron-lsp): type-aware diagnostics, autocomplete, hover and go-to-definition for .ron files."
+repository = "https://github.com/HoCoK31/zed-ron-lsp"
+authors = ["HoCoK31"]
+
+[language_servers.ron-lsp]
+languages = ["RON"]
